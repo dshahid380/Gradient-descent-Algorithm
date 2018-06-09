@@ -1,6 +1,3 @@
-#The optimal values of m and b can be actually calculated with way less effort than doing a linear regression. 
-#this is just to example of gradient descent
-
 from numpy import *
 
 
