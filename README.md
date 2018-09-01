@@ -1,2 +1,4 @@
 # Gradient-descent-Algorithm
-This was just an simple implementation of gradient descent algorithm
+This is just an simple mathematical implementation of gradient descent algorithm
+   ### Libraris Used
+      * 'pip install numpy'
